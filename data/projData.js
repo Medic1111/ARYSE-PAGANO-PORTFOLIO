@@ -1,5 +1,5 @@
 // MARIO ASSETS
-import Mario from "../public/Mario/Mario.png";
+import Mario from "../public/Mario/mario.png";
 import Mcode1 from "../public/Mario/codeOne.png";
 import Mcode2 from "../public/Mario/codeTwo.png";
 import Mcode3 from "../public/Mario/codeThree.png";
@@ -16,10 +16,10 @@ import Ccode2 from "../public/Carmen/codeTwo.png";
 import Ccode3 from "../public/Carmen/codeThree.png";
 
 //POSTZONE ASSETS
-import PostZone from "../public/Postzone/PostZone.png";
-import Pcode1 from "../public/Postzone/codeOne.png";
-import Pcode2 from "../public/Postzone/codeTwo.png";
-import Pcode3 from "../public/Postzone/codeThree.png";
+// import PostZone from "../public/Postzone/PostZone.png";
+// import Pcode1 from "../public/Postzone/codeOne.png";
+// import Pcode2 from "../public/Postzone/codeTwo.png";
+// import Pcode3 from "../public/Postzone/codeThree.png";
 
 // SHOP ASSETS
 import Shop from "../public/Shop/Shop.png";
@@ -40,10 +40,10 @@ import InterCode2 from "../public/Internationize/codeThree.png";
 import InterCode3 from "../public/Internationize/codeTwo.png";
 
 // MAGENDA ASSETS:
-import Magenda from "../public/Magenda/Magenda.png";
-import MagendaCode1 from "../public/Magenda/codeOne.png";
-import MagendaCode2 from "../public/Magenda/codeTwo.png";
-import MagendaCode3 from "../public/Magenda/codeThree.png";
+// import Magenda from "../public/Magenda/Magenda.png";
+// import MagendaCode1 from "../public/Magenda/codeOne.png";
+// import MagendaCode2 from "../public/Magenda/codeTwo.png";
+// import MagendaCode3 from "../public/Magenda/codeThree.png";
 
 //DEEP SINK ASSETS:
 import DeepSink from "../public/DeepSink/deepSink.png";
