@@ -1,0 +1,13 @@
+.heroDiv {
+  width: 70vw;
+  height: 95vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 987px) {
+  .heroDiv {
+    width: 100vw;
+  }
+}

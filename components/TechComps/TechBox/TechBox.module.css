@@ -1,0 +1,22 @@
+.section {
+  width: 85vw;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1em;
+  padding: 5vh 5vw;
+  padding-right: 20vw;
+  overflow-y: scroll;
+}
+@media (max-width: 987px) {
+  .section {
+    width: 100vw;
+    margin: 0;
+    gap: 2em;
+    overflow-y: scroll;
+    height: 90vh;
+    padding: 5vh 5vw;
+  }
+}

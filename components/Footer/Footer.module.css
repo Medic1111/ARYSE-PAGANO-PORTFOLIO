@@ -1,0 +1,16 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100vw;
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+}
+.small {
+  font-size: 1.2em;
+  letter-spacing: 0.7px;
+  color: rgb(245, 239, 241);
+}

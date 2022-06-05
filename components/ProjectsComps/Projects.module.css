@@ -1,0 +1,52 @@
+.flexParent {
+  height: 95vh;
+  width: 70vw;
+  gap: 2em;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+  /* TEST */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  flex-wrap: wrap;
+  gap: 2em;
+  overflow-y: scroll;
+  justify-content: center;
+  align-items: center;
+  padding: 10vh 0;
+  width: 85vw;
+  width: 75vw;
+  margin-left: 2.5vw;
+  padding: 20vh 0vw;
+}
+.block {
+  display: block;
+  height: 35vh;
+  width: 30vw;
+  cursor: pointer;
+}
+.pic {
+  border-radius: 10px;
+  border-radius: 2px;
+}
+
+@media (max-width: 987px) {
+  .block {
+    width: 90vw;
+    /* margin: 3em; */
+  }
+  .pic {
+    border-radius: 1px;
+  }
+  .flexParent {
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    padding: 5vh 0;
+    padding-left: 5vw;
+    margin-left: 0vw;
+  }
+}
