@@ -24,7 +24,7 @@ const SpecificProject = () => {
 
   return (
     <section className={classes.section}>
-      <h1 className={classes.title}>{currentProject[0].name}</h1>
+      {/* <h1 className={classes.title}>{currentProject[0].name}</h1>
       <div className={classes.imgBlock}>
         <Image
           src={currentProject[0].img1}
@@ -41,7 +41,7 @@ const SpecificProject = () => {
         target="_blank"
       >
         Live version here
-      </a>
+      </a> */}
       <div className={classes.imgBlock}>
         <Image
           src={currentProject[0].codeOne}

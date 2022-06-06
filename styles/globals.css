@@ -21,6 +21,25 @@ body {
 }
 /*  */
 
+::-webkit-scrollbar {
+  width: 0px;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+
+  -webkit-box-shadow: none;
+}
+::-webkit-scrollbar-thumb {
+  background: white;
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+
+  -webkit-box-shadow: none;
+}
+
+::-webkit-scrollbar-thumb:window-inactive {
+  background: none;
+}
+
 @media (max-width: 987px) {
   html {
     font-size: 53.5%;

@@ -25,6 +25,11 @@
   display: block;
   height: 55vh;
   width: 50vw;
+
+  /* TEST */
+  height: 70vh;
+  width: 60vw;
+  /* TESTEND */
   margin-bottom: 10vh;
 }
 .tech {

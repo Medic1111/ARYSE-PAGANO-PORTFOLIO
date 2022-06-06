@@ -4,7 +4,8 @@ const HeroText = () => {
   return (
     <section className={classes.textBox}>
       <h2 className={classes.mern}>
-        Full stack web developer utilizing MERN stack to make things happen...
+        Full-Stack web developer making things happen one console.log('at a
+        time');
       </h2>
       <Link href="/projects">
         <li className={classes.button}>
