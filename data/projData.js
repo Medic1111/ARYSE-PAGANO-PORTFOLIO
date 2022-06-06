@@ -70,6 +70,7 @@ const projData = [
     path: "My Portal",
     url: "https://myschool-portal.web.app/",
     name: "My Portal",
+    repo: "https://github.com/Medic1111/my-portal",
     tech: "React, React-Redux",
     description:
       "To Test: {StudentId: 1234, Password: 4321}; Front-end skills display application for students to keep track of their classes, grades, and assignments. Created with Create-React-App with State management via React-Redux and Redux-Toolkit.",
