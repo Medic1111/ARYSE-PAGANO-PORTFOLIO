@@ -56,4 +56,8 @@
     border: solid rgb(212, 38, 96) 2px;
     height: 0px;
   }
+  .p {
+    font-size: 5.5em;
+    letter-spacing: 4px;
+  }
 }
