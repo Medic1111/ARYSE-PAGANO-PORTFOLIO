@@ -68,12 +68,12 @@ import MyPortalCodeThree from "../public/MyPortal/codeThree.png";
 const projData = [
   {
     path: "My Portal",
-    url: "https://myschool-portal.web.app/",
+    url: "https://testing-portal-api.herokuapp.com/",
     name: "My Portal",
     repo: "https://github.com/Medic1111/my-portal",
-    tech: "React, React-Redux",
+    tech: "React, Redux, NodeJS, Express, MongoDB, Heroku ",
     description:
-      "To Test: {StudentId: 1234, Password: 4321}; Front-end skills display application for students to keep track of their classes, grades, and assignments. Created with Create-React-App with State management via React-Redux and Redux-Toolkit.",
+      "To Test: {StudentId: 123456, Password: 123456};  Student portal where you can add your classes and track assignments and grades. Created with Create-React-App with State management via React-Redux and Redux-Toolkit. NodeJS backend with express server and mongoDB for database.",
     images: [MyPortal, MyPortalCodeOne, MyPortalCodeTwo, MyPortalCodeThree],
     img1: MyPortal,
     codeOne: MyPortalCodeOne,
@@ -85,9 +85,9 @@ const projData = [
     url: "https://opiniomate.herokuapp.com/",
     repo: "https://github.com/Medic1111/OpinionMate-News-EJS",
     name: "OpinioMate",
-    tech: "News API, EJS, Passport, Express-session, NodeJS, Express, MongoDB",
+    tech: "News API, EJS, Passport, NodeJS, Express, MongoDB, Heroku",
     description:
-      "To Test: {email: test@test.com, password: test};  Less focus on UI, more focus on implementing different skills. Backend App that consumes News API rendering the latest news heading. The user creates an account for which Passport is being used, and is logged in where all users get opinionate in regards the topic. The session is being managed by express-session. Passwords are hashed and salted with passport. Templating happens with EJS and data persists with MongoDB via Atlas.",
+      "To Test: {email: test@test.com, password: test}; Backend App that consumes News API rendering the latest news heading. The user creates an account for which Passport is being used, and is logged in where all users get opinionate in regards the topic. User session via express-session, passwords hashed and salted with passport. Templating happens with EJS and data persists with MongoDB via Atlas.",
     images: [PostMate, PostCode1, PostCode2, PostCode3],
     img1: PostMate,
     codeOne: PostCode1,
@@ -133,7 +133,7 @@ const projData = [
     name: "Opinionate",
     tech: "EJS, NodeJS, Express, MongoDB, Mongoose, MongoDB Atlas",
     description:
-      "Backend dynamically served Blog style project. Templated with EJS, allows for administration editing utilizing CRUD, and data persists via MongoDB and its wonders.",
+      "Backend 'Blog-style' project templated with EJS. Allows for administration editing utilizing CRUD, and data persists via MongoDB and its wonders.",
     images: [Blog, Bcode1, Bcode2, Bcode3],
 
     img1: Blog,
