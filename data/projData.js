@@ -71,9 +71,9 @@ const projData = [
     url: "https://testing-portal-api.herokuapp.com/",
     name: "My Portal",
     repo: "https://github.com/Medic1111/my-portal",
-    tech: "React, Redux, NodeJS, Express, MongoDB, Heroku ",
+    tech: "React, Redux, NodeJS, Express, MongoDB, BCRYPT, Heroku ",
     description:
-      "To Test: {StudentId: 123456, Password: 123456};  Student portal where you can add your classes and track assignments and grades. Created with Create-React-App with State management via React-Redux and Redux-Toolkit. NodeJS backend with express server and mongoDB for database.",
+      "To Test: {StudentId: 123456, Password: 123456};  Student portal where you can add your classes and track assignments and grades. Created with Create-React-App with State management via React-Redux and Redux-Toolkit. NodeJS backend with express server and mongoDB for database. Password Hashed and salted with Bcrypt.",
     images: [MyPortal, MyPortalCodeOne, MyPortalCodeTwo, MyPortalCodeThree],
     img1: MyPortal,
     codeOne: MyPortalCodeOne,
