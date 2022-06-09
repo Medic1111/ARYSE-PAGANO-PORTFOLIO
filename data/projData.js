@@ -81,6 +81,20 @@ const projData = [
     codeThree: MyPortalCodeThree,
   },
   {
+    path: "monstera",
+    repo: "https://github.com/Medic1111/Monstera-MERN-STRIPE",
+    url: "https://monstera-shop.herokuapp.com/",
+    name: "Monstera",
+    tech: "ReactJS, Redux, NodeJS, Express, Stripe API",
+    description:
+      "To Test: {cardNumber: 4242 4242 4242 4242, ExDate: 0424, CVC: 242, ZIP: 42424}; Minimalist shop experience for Monstera plant lovers. Built with React, state managed with Redux, payments with Stripe API",
+    images: [Monstera, MonsteraCodeOne, MonsteraCodeTwo, MonsteraCodeThree],
+    img1: Monstera,
+    codeOne: MonsteraCodeOne,
+    codeTwo: MonsteraCodeTwo,
+    codeThree: MonsteraCodeThree,
+  },
+  {
     path: "opiniomate",
     url: "https://opiniomate.herokuapp.com/",
     repo: "https://github.com/Medic1111/OpinionMate-News-EJS",
@@ -108,22 +122,6 @@ const projData = [
     codeOne: DeepSinkCode1,
     codeTwo: DeepSinkCode2,
     codeThree: DeepSinkCode3,
-  },
-  {
-    path: "monstera",
-    repo: "https://github.com/Medic1111/Monstera-Redux",
-
-    url: "https://monstera-shop.web.app/",
-    name: "Monstera",
-    tech: "CSS, ReactJS, React-Redux, Redux-Toolkit",
-    description:
-      "Straight forward display of state management via React-Redux, along with Redux-toolkit. Created with create-react-app, styled with css. Modals are set within ReactDOM Portals to respect SEO.",
-    images: [Monstera, MonsteraCodeOne, MonsteraCodeTwo, MonsteraCodeThree],
-
-    img1: Monstera,
-    codeOne: MonsteraCodeOne,
-    codeTwo: MonsteraCodeTwo,
-    codeThree: MonsteraCodeThree,
   },
 
   {
