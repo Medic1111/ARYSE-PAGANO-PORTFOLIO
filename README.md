@@ -14,7 +14,7 @@
 
 [OBJECTIVE]
 
-- Live aboard a sail-boat... but besides that, career change to programming working in a healthy and challenging driven enviroment with a diverse group of people.
+- Live aboard a sail-boat... but besides that, career change to programming working in a healthy and challenge driven enviroment with a diverse group of people.
 
 [MY_TRAITS]
 
