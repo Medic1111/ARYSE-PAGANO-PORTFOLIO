@@ -4,7 +4,7 @@ import classes from "./CardBox.module.css";
 const CardBox = () => {
   return (
     <section className={classes.section}>
-      <Card year="1991" description="Born in Sao Paulo, Brazil." />
+      <Card />
     </section>
   );
 };

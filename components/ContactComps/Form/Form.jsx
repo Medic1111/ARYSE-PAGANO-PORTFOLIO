@@ -29,7 +29,6 @@ const Form = ({ setHasSubmitted }) => {
         .post("/api/submit-form", { userInfo })
         .then((serverRes) => {
           if (serverRes.status === 200) {
-            console.log(serverRes.data);
             setHasSubmitted((prev) => !prev);
           }
         })
@@ -61,11 +60,11 @@ const Form = ({ setHasSubmitted }) => {
           name="name"
           autoComplete="off"
         ></input>
-        {isInvalid ? (
+        {isInvalid && (
           <p className={classes.contactP}>
-            Invalid Email Address or Name length!
+            Invalid Email Address or Name field is empty
           </p>
-        ) : null}
+        )}
 
         <button onClick={submitHandler} className={classes.button}>
           <span className={classes.span}>Send</span>

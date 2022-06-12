@@ -1,7 +1,8 @@
 import classes from "./Card.module.css";
 import Me from "../../../public/Me/me.png";
 import Image from "next/image";
-const Card = ({ year, description }) => {
+
+const Card = () => {
   return (
     <section className={classes.section}>
       <p className={classes.p}>ARYSE TANSY</p>
