@@ -1,5 +1,11 @@
 /* rgb(212, 38, 96) */
 /*rgb(245, 239, 241)  */
+.resume {
+  color: rgb(212, 38, 96);
+  font-size: 1.7em;
+  font-weight: 400;
+  letter-spacing: 0.7px;
+}
 
 .section {
   height: 65vh;
