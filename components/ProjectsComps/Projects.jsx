@@ -8,7 +8,7 @@ const ProjectsComp = () => {
     <section className={classes.flexParent}>
       {projData.map((obj, index) => {
         return (
-          <div className={classes.div}>
+          <div key={`img_block${index}`} className={classes.div}>
             <p className={classes.pTitle}>{obj.name}</p>
             <div className={classes.block}>
               <Image

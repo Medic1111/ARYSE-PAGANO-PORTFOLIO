@@ -1,9 +1,11 @@
 import React, { lazy, Suspense } from "react";
 import Loading from "../../components/UI/Loading/Loading";
 import Head from "next/head";
+
 const ProjectsComp = lazy(() =>
   import("../../components/ProjectsComps/Projects")
 );
+
 const Projects = () => {
   return (
     <React.Fragment>
