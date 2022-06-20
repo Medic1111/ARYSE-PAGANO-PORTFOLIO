@@ -15,7 +15,7 @@ const Card = () => {
       <hr className={classes.hr} />
       <a
         className={classes.resume}
-        href="https://www.icloud.com/pages/0308deaxC0HL0RI3eKd3W4FkQ#Aryse_Tansy-_Resume"
+        href="https://www.icloud.com/iclouddrive/030vlL0Fxnt4PbzDUOv3XPUZA#RESUME-PDF"
         target="_blank"
       >
         Resume
