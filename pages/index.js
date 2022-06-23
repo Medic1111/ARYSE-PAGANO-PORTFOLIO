@@ -5,10 +5,10 @@ const Home = () => {
   return (
     <React.Fragment>
       <Head>
-        <title>Aryse Tansy Web Development</title>
+        <title>Aryse Pagano Web Development</title>
         <meta
           name="description"
-          content="Full stack web developer utilizing MERN to make things happen."
+          content="Full stack web developer merging the gap between ideas and accomplishments"
         ></meta>
       </Head>
       <div className="heroDiv">
