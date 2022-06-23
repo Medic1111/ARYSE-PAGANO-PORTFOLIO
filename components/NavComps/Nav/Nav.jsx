@@ -5,7 +5,7 @@ import NavMenuBtn from "../NavMenuBtn/NavMenuBtn";
 const Nav = () => {
   return (
     <nav className={classes.nav}>
-      <h1 className={classes.h1}>AT</h1>
+      <h1 className={classes.h1}>AP</h1>
       <ul className={classes.ul}>
         <Link href="/">
           <li className={classes.li}>Home</li>

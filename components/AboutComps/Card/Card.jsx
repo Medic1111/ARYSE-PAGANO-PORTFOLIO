@@ -5,7 +5,7 @@ import Image from "next/image";
 const Card = () => {
   return (
     <section className={classes.section}>
-      <p className={classes.p}>ARYSE TANSY</p>
+      <p className={classes.p}>ARYSE PAGANO</p>
       <p className={classes.pDes}>
         Practical, peculiar, solution focused, determined and objective.
       </p>
