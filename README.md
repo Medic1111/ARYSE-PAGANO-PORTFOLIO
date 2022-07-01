@@ -45,7 +45,7 @@ Paramedic for nearly 10 years.
 
 - Udemy (The Complete 2022 Web Development Bootcamp, Dr. Angela Yu) — Certificate of Achievement, 2021
 
-— FCC Javascript Algorithms and Data Structure — Certificate of Achievement, 2022
+- FCC Javascript Algorithms and Data Structure — Certificate of Achievement, 2022
 
 - Udemy (React- The complete guide (incl Hooks, React Router, Redux; Maximilian Schwarzmüller) - 85% current
 
