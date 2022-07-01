@@ -1,30 +1,39 @@
 # ARYSE TANSY PERSONAL PORTFOLIO
 
-[WHO_AM_I]
+### WHO AM I
 
-- Mom, wife, plant lover, ocean inspired, humble human being. Taking on the journey of programming and loving every second of it.
+Mom, wife, plant lover, ocean inspired, humble human being. Taking on the journey of programming and loving every second of it.
 
-[BESIDES_CODING]
+### BESIDES_CODING
 
-- Paramedic for nearly 10 years.
+Paramedic for nearly 10 years.
 
-[PRIMARY_SKILLS]
+#### PRIMARY SKILLS
 
-- HTML, CSS, JS, ReactJS, NextJS, NodeJS, Express, MongoDB, Git, Github
+- HTML
+- CSS
+- Javascript
+- React
+- Next.js
+- Nodejs
+- Express
+- MongoDB
+- Git
+- Github
 
-[OBJECTIVE]
+#### OBJECTIVE
 
 - Live aboard a sail-boat... but besides that, career change to programming working in a healthy and challenge driven enviroment with a diverse group of people.
 
-[MY_TRAITS]
+###### MY TRAITS
 
 - Calm, objective, simple, solution-focused, zero-drama, zero-nonsense
 
-[COOL_SECRET]
+> COOL_SECRET
 
 - Sometimes when I get stuck on some logic, I go to bed and code in my dreams. Next thing I know, I wake up with the solution. Good reason to keep paper and pen right on my side-table.
 
-[LEARNING-JOURNEY]
+## LEARNING-JOURNEY
 
 - It began on Sept. 11th 2022
 
@@ -42,7 +51,7 @@
 
 - Average 8hrs/daily coding
 
-[CONTACT]
+> CONTACT
 
-email: medic1111@gmail.com
-phone: (754)367-0607 -> voicemail/text
+> email: medic1111@gmail.com
+> phone: (754)367-0607 -> voicemail/text
