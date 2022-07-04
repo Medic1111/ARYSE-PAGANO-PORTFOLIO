@@ -13,17 +13,34 @@ import MyPortal from "../public/MyPortal/myPortal.png";
 // HANDS ONLY
 import HandsOnly from "../public/HandsOnly/handsOnly.png";
 
+// FOOD-QR
+import FoodQr from "../public/FoodQr/app.png";
+
+//PORTAL-ZONE
+import Zone from "../public/PortalZone/zone.png";
+
 //
 const projData = [
   {
-    path: "My Portal",
-    url: "https://testing-portal-api.herokuapp.com/",
-    name: "My Portal",
-    repo: "https://github.com/Medic1111/my-portal",
-    tech: "React, Redux, NodeJS, Express, MongoDB, BCRYPT, Heroku ",
+    path: "Portal-zone",
+    url: "https://portal-zone.herokuapp.com/",
+    name: "Portal-zone",
+    repo: "https://github.com/Medic1111/my-portal-v2",
+    tech: "React, NodeJS, Express, MongoDB, bcrypt, socket.io, Heroku ",
     description:
-      "To Test: {StudentId: 123456, Password: 123456};  Student portal where you can add your classes and track assignments and grades. Created with Create-React-App with State management via React-Redux and Redux-Toolkit. NodeJS backend with express server and mongoDB for database. Password Hashed and salted with Bcrypt.",
-    img1: MyPortal,
+      "Full stack app that allows a registered mentor to create a class for which a key is generated. A student with access to that key may enroll and gain reading access to assignments posted by the teacher, as well as engage in real time chat in that particular class. Front end React, chat is possible via Socket.IO, backend with NodeJs, Express, bcrypt for security, and finally, mongoDB for database",
+    img1: Zone,
+  },
+
+  {
+    path: "Food-QR",
+    url: "https://food-qr.herokuapp.com/",
+    name: "Food-QR",
+    repo: "https://github.com/Medic1111/food-QR",
+    tech: "React, NodeJS, Express, MongoDB, Heroku ",
+    description:
+      "Full stack app that allows a food establishment to create an online menu, and generates a QR Code that can be used to enable touchless menu visualization. Created with React, state managed via Context, backend with NodeJs and Express, and mongoDB for database.",
+    img1: FoodQr,
   },
   {
     path: "monstera",
@@ -34,6 +51,16 @@ const projData = [
     description:
       "To Test: {cardNumber: 4242 4242 4242 4242, ExDate: 0424, CVC: 242, ZIP: 42424}; Minimalist shop experience for Monstera plant lovers. Built with React, state managed with Redux, payments with Stripe API",
     img1: Monstera,
+  },
+  {
+    path: "My Portal",
+    url: "https://testing-portal-api.herokuapp.com/",
+    name: "My Portal",
+    repo: "https://github.com/Medic1111/my-portal",
+    tech: "React, Redux, NodeJS, Express, MongoDB, BCRYPT, Heroku ",
+    description:
+      "To Test: {StudentId: 123456, Password: 123456};  Student portal where you can add your classes and track assignments and grades. Created with Create-React-App with State management via React-Redux and Redux-Toolkit. NodeJS backend with express server and mongoDB for database. Password Hashed and salted with Bcrypt.",
+    img1: MyPortal,
   },
   {
     path: "hands-only",
