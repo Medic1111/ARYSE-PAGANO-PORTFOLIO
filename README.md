@@ -35,7 +35,7 @@ Paramedic for nearly 10 years.
 
 ## LEARNING-JOURNEY
 
-- It began on Sept. 11th 2022
+- It began on Sept. 11th 2021
 
 - Inspired by the movie: "FREE GUY"
 
