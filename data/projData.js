@@ -1,9 +1,6 @@
 // MARIO ASSETS
 import Mario from "../public/Mario/mario.png";
 
-// DEEP SINK ASSETS:
-// import DeepSink from "../public/DeepSink/deepSink.png";
-
 // MONSTERA ASSETS:
 import Monstera from "../public/Monstera/monstera.png";
 
@@ -19,7 +16,14 @@ import FoodQr from "../public/FoodQr/app.png";
 //PORTAL-ZONE
 import Zone from "../public/PortalZone/zone.png";
 
+// MOOVEES
+import Moovees from "../public/Moovees/moovee2.png";
+
+// CHANGE
+
+import Change from "../public/Change/1.png";
 //
+
 const projData = [
   {
     path: "Portal-zone",
@@ -42,6 +46,17 @@ const projData = [
       "Full stack app that allows a food establishment to create an online menu, and generates a QR Code that can be used to enable touchless menu visualization. Created with React, state managed via Context, backend with NodeJs and Express, and mongoDB for database.",
     img1: FoodQr,
   },
+  {
+    path: "MOOVEES",
+    url: "https://moovees-app.herokuapp.com/",
+    name: "MOOVEES",
+    repo: "https://github.com/Medic1111/MOOVEES-APP",
+    tech: "React, NodeJS, Express, MongoDB, Heroku, imdb API ",
+    description:
+      "TEST: username and password: testuser; Full stack movie tracker application, that allows a registered user to search for movies and tv shows, and organize them into personal lists.",
+    img1: Moovees,
+  },
+
   {
     path: "monstera",
     repo: "https://github.com/Medic1111/Monstera-MERN-STRIPE",
@@ -72,22 +87,6 @@ const projData = [
       "To Test: {answers: c-b-c-a-c-a-b-c-a}; App created to boots efforts of helping peolple to provide hands-only CPR in case of cardiac-arrest. Quiz style with 9 explanations and questions which at the end allows for newsletter subscription. Front end done with React, state management via useContext hook, NodeJS back end with express server and MongoDB for database. MailChimp API integration for newsletter campaign.",
     img1: HandsOnly,
   },
-
-  // {
-  //   path: "deepsink",
-  //   repo: "https://github.com/Medic1111/DeepSink-React-Context",
-  //   url: "https://deepsink-133ff.web.app/",
-  //   name: "Deep Sink",
-  //   tech: "CSS, ReactJS",
-  //   description:
-  //     "React app selling scubadives, front end only, with state management via the useContext() hook. Other relevant approches include using portals for SEO and wrappers to maintain a cleaner code.",
-  //   images: [DeepSink, DeepSinkCode1, DeepSinkCode2, DeepSinkCode3],
-
-  //   img1: DeepSink,
-  //   codeOne: DeepSinkCode1,
-  //   codeTwo: DeepSinkCode2,
-  //   codeThree: DeepSinkCode3,
-  // },
 
   {
     path: "mario",
