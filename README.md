@@ -1,57 +1,125 @@
-# ARYSE TANSY PERSONAL PORTFOLIO
+<h1 align="center">
+Aryse Pagano :tropical_fish:
+</h1>
 
-### WHO AM I
+[PORTFOLIO](http://pagano.dev)
 
-Mom, wife, plant lover, ocean inspired, humble human being. Taking on the journey of programming and loving every second of it.
+<a href="http://www.pagano.dev" target="_blank"><img align="center" src="./ocean.jpg" width="900" /></a>
 
-### BESIDES_CODING
+<h2 align="center">
+Currently featuring:
+</h2>
 
-Paramedic for nearly 10 years.
+<a href="https://github.com/Medic1111/PORTAL-ZONE-MY-PORTAL-v2" target="_blank">Portal-Zone</a>
 
-#### PRIMARY SKILLS
+<a href="https://github.com/Medic1111/FOOD-QR" target="_blank">Food-QR</a>
 
-- HTML
-- CSS
-- Javascript
-- React
-- Next.js
-- Nodejs
-- Express
-- MongoDB
-- Git
-- Github
+<a href="https://github.com/Medic1111/MOOVEES-APP" target="_blank">Moovess-App</a>
 
-#### OBJECTIVE
+<a href="https://github.com/Medic1111/MONSTERA-SHOP-MERN-STRIPE" target="_blank">Monstera-Shop</a>
 
-- Live aboard a sail-boat... but besides that, career change to programming working in a healthy and challenge driven enviroment with a diverse group of people.
+<hr/>
 
-###### MY TRAITS
+![](https://img.shields.io/badge/Gen-HTML-ff69b4)
+![](https://img.shields.io/badge/Gen-CSS-ff69b4)
+![](https://img.shields.io/badge/Gen-JS-ff69b4)
+![](https://img.shields.io/badge/Gen-NPM-ff69b4)
+![](https://img.shields.io/badge/Front-ReactJS-ff69b4)
+![](https://img.shields.io/badge/Front-Next.JS-ff69b4)
+![](https://img.shields.io/badge/Back-NodeJs-ff69b4)
+![](https://img.shields.io/badge/Back-Express-ff69b4)
+![](https://img.shields.io/badge/Back-EJS-ff69b4)
+![](https://img.shields.io/badge/Data-MongoDB-ff69b4)
 
-- Calm, objective, simple, solution-focused, zero-drama, zero-nonsense
+<hr/>
 
-> COOL_SECRET
+<h2 align="center">
+Proudly self-taught full stack web developer making things happen one... 
+</h2>
 
-- Sometimes when I get stuck on some logic, I go to bed and code in my dreams. Next thing I know, I wake up with the solution. Good reason to keep paper and pen right on my side-table.
+```
+console.log("At a time")
+```
 
-## LEARNING-JOURNEY
+### Behind the scenes
 
-- It began on Sept. 11th 2021
+- :ambulance: Paramedic for nearly 10 years
+- :taurus: Food lover like you can't image
+- :two_women_holding_hands: Happily ever after
+- :baby: Mom of a teenager boy
+- :surfer: Ocean lover
 
-- Inspired by the movie: "FREE GUY"
+### Then what
 
-- Mimo Web Development — Certificate of Achievement, 2021
+> Then I went to the movies to watch "Free Guy". Its about a video game in which the main character is basically... human? To help him survive the game, real world developers code in real time altering the game "world"
 
-- FCC Responsive Web Design — Certificate of Achievement, 2021
+> :raising_hand: What's with that coding thing??? :raising_hand:
 
-- Udemy (The Complete 2022 Web Development Bootcamp, Dr. Angela Yu) — Certificate of Achievement, 2021
+### That coding thing
 
-- FCC Javascript Algorithms and Data Structure — Certificate of Achievement, 2022
+```
+npm i how-to-google-that-coding-thing
+...
+warning You don't appear to have an internet connection. Try the --offline flag to use the cache for registry queries.
+[1/4] 🔍  Resolving packages...
+[2/4] 🚚  Fetching packages...
+info There appears to be trouble with your network connection.
+...
 
-- Udemy (React- The complete guide (incl Hooks, React Router, Redux; Maximilian Schwarzmüller) - 85% current
+npm i now-i-have-a-pc-and-internet
+touch index.html
 
-- Average 8hrs/daily coding
+<h1>Sept 11 2021</h1>
+<h2>The journey begins</h2>
 
-> CONTACT
+console.log('Hello World!');
 
-> email: medic1111@gmail.com
-> phone: (754)367-0607 -> voicemail/text
+let goal = "Live aboard sailboat and have time with the family";
+
+let work = "Weird full time schedule";
+
+let currentConditionPromising = false;
+
+const tech = [
+  "bash",
+  "html",
+  "css",
+  "js",
+  "node",
+  "npm",
+  "express",
+  "reactjs",
+  "redux",
+  "nextjs",
+  "mongodb",
+  "postgres",
+  "agile",
+  "scrum",
+  "kanban",
+];
+
+const brain = [];
+
+const solutionSteps =(tech)=> {
+ return tech.forEach((item)=> brain.push(item)
+ };
+
+ solutionSteps(tech)
+
+{brain.length >= tech.length && <SuccessComp hustle ={!currentConditionPromising} feedback={"Having a blast in this journey!"}>}
+
+```
+
+### Current Feel:
+
+![Pokemon evolving](https://media.giphy.com/media/u1k1kpDZSw5sA/giphy.gif)
+
+### STATS
+
+[![Medic1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=Medic1111&show_icons=true&theme=radical)](https://github.com/medic1111/github-readme-stats)
+
+#### Visitor count:
+
+![Visitor Count](https://profile-counter.glitch.me/medic1111/count.svg)
+
+<!-- ![](https://komarev.com/ghpvc/?username=medic1111&color=ff69b4) -->
