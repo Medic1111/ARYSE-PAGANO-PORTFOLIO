@@ -26,6 +26,16 @@ import Change from "../public/Change/1.png";
 
 const projData = [
   {
+    path: "Food-QR",
+    url: "https://foodqr.onrender.com/",
+    name: "Food-QR",
+    repo: "https://github.com/Medic1111/FOOD-QR-FULL-STACK-TS",
+    tech: "React, TypeScript, NodeJS, Express, MongoDB, Render ",
+    description:
+      "Full stack app that allows a food establishment to create a standardized online menu, and generates a QR Code that can be printed or downloaded enabling touchless menu visualization.",
+    img1: FoodQr,
+  },
+  {
     path: "Portal-zone",
     url: "https://portal-zone.herokuapp.com/",
     name: "Portal-zone",
@@ -44,17 +54,6 @@ const projData = [
     description:
       "TEST: username and password: testuser; Full stack movie tracker application that allows a registered user to search for movies and tv shows, and organize them into personal lists.",
     img1: Moovees,
-  },
-
-  {
-    path: "Food-QR",
-    url: "https://food-qr.herokuapp.com/",
-    name: "Food-QR",
-    repo: "https://github.com/Medic1111/food-QR",
-    tech: "React, NodeJS, Express, MongoDB, Heroku ",
-    description:
-      "Full stack app that allows a food establishment to create an online menu, and generates a QR Code that can be printed or downloaded enabling touchless menu visualization.",
-    img1: FoodQr,
   },
 
   {
