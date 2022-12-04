@@ -38,7 +38,7 @@ const projData = [
   },
   {
     path: "CRYPTAWARE",
-    url: "https://cryptaware.onrender.com/",
+    url: "https://cryptaware-u94a.onrender.com/",
     name: "Cryptaware",
     repo: "https://github.com/Medic1111/CRYPTAWARE-FULLSTACK-TS",
     tech: "React, TypeScript, NodeJS, Express, MongoDB, Render, Alphavantage API ",
