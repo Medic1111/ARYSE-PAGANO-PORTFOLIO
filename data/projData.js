@@ -28,7 +28,7 @@ import Change from "../public/Change/1.png";
 const projData = [
   {
     path: "Food-QR",
-    url: "https://foodqr.onrender.com/",
+    url: "https://food-qr.onrender.com/",
     name: "Food-QR",
     repo: "https://github.com/Medic1111/FOOD-QR-FULL-STACK-TS",
     tech: "React, TypeScript, NodeJS, Express, MongoDB, Render ",
