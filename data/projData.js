@@ -48,7 +48,7 @@ const projData = [
   },
   {
     path: "Portal-zone",
-    url: "https://portal-zone-v2.onrender.com/",
+    url: "https://portal-zone.onrender.com/",
     name: "Portal-zone",
     repo: "https://github.com/Medic1111/my-portal-v2",
     tech: "React, NodeJS, Express, MongoDB, bcrypt, socket.io, Heroku ",
