@@ -25,7 +25,32 @@ import CryptoImg from "../public/Cryptaware/crypto.png";
 import Change from "../public/Change/1.png";
 //
 
+// NOMAD
+import Nomad from "../public/Nomad/posts.png";
+
+// PAYBACK
+import Payback from "../public/Payback/home.png";
 const projData = [
+  {
+    path: "Nomad-me",
+    url: "https://nomad-2aix.onrender.com/",
+    name: "Nomad-me",
+    repo: "https://github.com/Medic1111/NOMAD-FULL-STACK-TS",
+    tech: "React, TypeScript, NodeJS, Express, MongoDB, Render, Jest, Super Test ",
+    description:
+      "A travel style social media application contained to remain a non-toxic environment, with light-hearted feedback on user's activities. Refactor version from a 6-week Chingu.io program, saving over 60% additions/deletions while adding TypeScript and and extra feature.",
+    img1: Nomad,
+  },
+  {
+    path: "PayBack App",
+    url: "https://paybackapp.onrender.com/",
+    name: "payback-app",
+    repo: "https://github.com/jackieodonnell/PayBack-App",
+    tech: "React, TypeScript, NodeJS, Express, MongoDB, Render, Jest, Super Test ",
+    description:
+      "GDI 2022 Hackathon award winner loan tracker application. Registered users may make borrow requests to another user, who will approve or deny it. If approved, the transaction gets tracked until paid-off. This is the MVP refactored version of the original delivered concept which was incomplete",
+    img1: Payback,
+  },
   {
     path: "Food-QR",
     url: "https://food-qr.onrender.com/",
