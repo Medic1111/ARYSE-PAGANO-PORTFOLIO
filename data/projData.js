@@ -35,7 +35,7 @@ const projData = [
     path: "Nomad-me",
     url: "https://nomad-me-v3.onrender.com/",
     name: "Nomad-me",
-    repo: "https://github.com/Medic1111/NOMAD-FULL-STACK-TS",
+    repo: "https://github.com/Medic1111/NOMAD-ME-NO-TS",
     tech: "React, NodeJS, Express, MongoDB, Render, Jest, Super Test ",
     description:
       "A travel style social media application contained to remain a non-toxic environment, with light-hearted feedback on user's activities. Refactor version from a 6-week Chingu.io program, saving over 60% additions/deletions while adding extra features and security.",
